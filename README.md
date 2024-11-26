@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @hassanbaig and i am devops
-- 👀 I’m interested in fast pace devops and security practice to protect end user from identity theft. 
-- 🌱 I’m currently working in codelabs
-- 💞️ I’m looking to collaborate on devops and security for fast updates development
-- 📫 reach me through hassanbaig.usedeals@gmail.com
-- Skill: Jenkins, Terraform, Ansible, ELK Stack, Kafka, Redis, Zabbix, Docker, Python, Security Testing, Grafana with promtheus, Bash Scipting and many more
-- ⚡ fact: I have 3 year experience as devops for developing industry level infrasturcture and providing 
+- 👋 Hi, I’m Hassan Baig, a DevOps Engineer.
+- 👀 I’m passionate about fast-paced DevOps and implementing robust security practices to protect end-users from identity theft.
+- 🌱 Currently, I’m working at Codelabs.
+- 💞️ I’m eager to collaborate on DevOps and security-focused projects to enable rapid development and secure operations.
+- 📫 You can reach me at hassanbaig.usedeals@gmail.com.
+
+- Skills: Jenkins, Terraform, Ansible, ELK Stack, Kafka, Redis, Zabbix, Docker, Python, Security Testing, Grafana with Prometheus, Bash Scripting, and more.
+- ⚡ Fun Fact: I have 3 years of experience in designing industry-grade infrastructure and delivering effective solutions.
 
 <!---
 hassanbaigcodelabs/hassanbaigcodelabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
